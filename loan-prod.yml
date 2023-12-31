@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loan:
-  message: "Welcome to Skyy Bank App - loan microservice related Prod APIs"
+  message: "Welcome to Skyy Bank App - loan microservice related production APIs"
   contactDetails:
     name: "Holly Prod - Product Owner"
     email: "holly-prod@skyy.com"
