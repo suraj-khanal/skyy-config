@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 card:
-  message: "Welcome to Skyy Bank App card microservice related Prod APIs"
+  message: "Welcome to Skyy Bank App card microservice related production APIs"
   contactDetails:
     name: "Holly Prod - Product Owner"
     email: "holly@skyy.com"
