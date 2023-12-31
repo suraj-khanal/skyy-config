@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Welcome to Skyy Bank App account-microservice related Prod APIs"
+  message: "Welcome to Skyy Bank App account-microservice related production APIs"
   contactDetails:
     name: "Holly Prod - Product Owner"
     email: "{cipher}72ee7c6d95d412258e36f3cd35caa31a59c89425652cc83be828a0eef82e4bac"
