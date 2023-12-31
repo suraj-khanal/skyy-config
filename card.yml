@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+card:
+  message: "Welcome to Skyy Bank Card App related local APIs"
+  contactDetails:
+    name: "Harry Potter - Developer"
+    email: "harry@skyy.com"
+  onCallSupport:
+    -(555)555-1010
+    -(100)101-1010
+

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+card:
+  message: "Welcome to Skyy Bank App related QA APIs"
+  contactDetails:
+    name: "Max Well - QA Lead"
+    email: "maxwell-qa@skyy.com"
+  onCallSupport:
+    -(666)555-1010
+    -(666)101-1010

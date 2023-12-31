@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loan:
+  message: "Welcome to Skyy Bank App - loan microservice related QA APIs"
+  contactDetails:
+    name: "Bhola Prasad - QA Lead"
+    email: "bhola-qa@skyy.com"
+  onCallSupport:
+    -(666)555-1010
+    -(666)101-1010

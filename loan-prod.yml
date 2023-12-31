@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loan:
+  message: "Welcome to Skyy Bank App - loan microservice related Prod APIs"
+  contactDetails:
+    name: "Holly Prod - Product Owner"
+    email: "holly-prod@skyy.com"
+  onCallSupport:
+    -(999) 555-1010
+    -(999) 101-1010
