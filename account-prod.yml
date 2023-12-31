@@ -5,7 +5,7 @@ account:
   message: "Welcome to Skyy Bank App account-microservice related Prod APIs"
   contactDetails:
     name: "Holly Prod - Product Owner"
-    email: "holly@skyy.com"
+    email: "{cipher}72ee7c6d95d412258e36f3cd35caa31a59c89425652cc83be828a0eef82e4bac"
   onCallSupport:
     -(999) 555-1010
     -(999) 101-1010
