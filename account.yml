@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Welcome to Skyy Bank App related docker APIs"
+  message: "Welcome to Skyy Bank App related locall APIs"
   contactDetails:
     name: "Harry Potter - Developer"
     email: "harry@skyy.com"
